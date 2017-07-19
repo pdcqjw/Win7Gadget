@@ -1,0 +1,9 @@
+body{ margin: 0;  width: 134px;  height:150px;  border:1px solid #000000;
+  font-weight: bold; font-size:small; background-color:White;
+  vertical-align:top; text-align: center;  font-size:14px;}
+#gadgetContent { margin: 0px; width: 130px; height:120px;vertical-align: middle;
+      text-align: center;  float:none;  display:inline-block;   }     
+#mybackground{  height:150px;  }     
+#author{  font-size:15px; border-top:2px solid #45ff00; background-color:White; 
+     padding:0px; width:130px; height:30px; float:none;
+     margin:2px 1px 1px 1px;   position:relative; z-index:3;  }
